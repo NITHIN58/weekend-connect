@@ -1,1 +1,10 @@
-{"/_error":"pages/_error.js","/_app":"pages/_app.js","/api/admin/popular":"pages/api/admin/popular.js","/api/admin/daily":"pages/api/admin/daily.js","/api/events/[id]":"pages/api/events/[id].js","/api/events":"pages/api/events.js","/api/register":"pages/api/register.js","/events/[id]":"pages/events/[id].html","/events":"pages/events.html","/":"pages/index.html","/_document":"pages/_document.js","/404":"pages/404.html"}
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/events": "pages/events.js",
+  "/events/[id]": "pages/events/[id].js",
+  "/api/events/[id]": "pages/api/events/[id].js",
+  "/api/events": "pages/api/events.js"
+}
